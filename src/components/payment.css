@@ -1,0 +1,31 @@
+.checkout_heading{
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.main_div{
+    border: 2px solid blue;
+    width: 100%;
+}
+.left_div{
+    border: 1px solid grey;
+    width: 50%;
+    margin-left: 40px;
+}
+.left_div div{
+    margin-top: 30px;
+}
+.payment_method1  img{
+    margin: 5px;
+    width: 60px;
+}
+.right_div{
+    width: 30%;
+    margin-left: 50px;
+}
+.apply_button :hover{
+    background-color: darkblue;
+    color: white
+
+}
